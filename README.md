@@ -117,3 +117,5 @@ User flow and clickable prototype created in Figma.
 ---
 
 Made with ❤️ at TinkerHub Useless Projects
+
+![Static Badge](https://img.shields.io/badge/Figma-Design-orange?logo=figma&logoColor=white)
