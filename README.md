@@ -114,7 +114,7 @@ The project was documented with proper design rationale, screen explanations, an
 
 ### Compare Before and After
 
-
+<img src="Compare.png"> 
 
 ---
 
