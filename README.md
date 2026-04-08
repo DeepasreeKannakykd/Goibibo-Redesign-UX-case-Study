@@ -5,51 +5,62 @@
 
 # UI/UX Website Redesign 🎯
 
-## Basic Details
-### Team Name: Mission Implausible
+Basic Details
 
----
-
-## Team Members
-- **Team Lead:** Deepasree Kannaky K D - Sahrdaya College of Advanced Studies, Kodakara
+Project Type: UI/UX Internship Project
+Organization: TechGlobal
 
 ---
 
 ## Project Description
-This project focuses on the **UI/UX redesign of an existing website** with the aim of improving usability, accessibility, and visual appeal. The redesign was created entirely by me using a user-centered design approach.
 
-The project involved identifying usability issues in the existing website, creating wireframes, designing high-fidelity UI screens, and building an interactive prototype in Figma to improve the overall user experience.
+The project focuses on the redesign of the Goibibo website to improve usability, accessibility, and overall visual appeal. The aim was to enhance the user experience of the travel booking platform by creating a cleaner, more intuitive, and user-friendly interface.
 
-The redesigned website now offers a modern, clean, responsive, and user-friendly interface.
+The redesign process included user research, identifying usability issues, creating wireframes, designing high-fidelity UI screens, and building an interactive prototype using Figma.
 
----
-
-## The Problem
-Many websites often have outdated designs, poor navigation structure, inconsistent visual hierarchy, and limited accessibility features.
-
-These issues can lead to:
-- Poor user experience
-- Confusing navigation
-- Reduced engagement
-- Accessibility problems
-- Non-responsive layouts
-
-The objective of this redesign was to solve these usability and design challenges.
+The final design delivers a modern, visually appealing, and easy-to-navigate travel booking experience.
 
 ---
 
-## The Solution
-The solution was to completely redesign the website interface by focusing on:
+## Problem in the Original Website
 
-- Better user flow
-- Improved navigation structure
-- Modern UI design
-- Consistent typography and spacing
-- Responsive layouts
-- Improved accessibility
-- Better visual hierarchy
+In the original website, there was a navigation and page-state inconsistency issue.
 
-The final design provides users with a seamless and intuitive browsing experience.
+When users selected the Home page, the flight booking widget remained visible, even though it should ideally appear only on the Flights page.
+
+This created confusion because users expect the content shown on each page to match the selected navigation tab.
+
+Additionally, the blue active indicator line in the header remained under the “Flights” tab, even while the user was on the Home page.
+
+This caused a mismatch between:
+
+the selected page
+the visible content
+the active navigation state
+
+As a result, users may feel unsure about which page they are currently viewing, leading to a poor and confusing browsing experience.
+
+---
+
+##Solution of My Project
+
+To solve the navigation inconsistency and improve the overall user experience, I completely redesigned multiple pages of the Goibibo website using a user-centered UI/UX approach.
+
+In my redesigned version:
+
+The Home page contains only home-related content, offers, and quick access sections.
+The flight booking widget appears only on the Flights page, ensuring that the displayed content matches the selected tab.
+The active blue header indicator moves dynamically to the currently selected page, giving clear visual feedback.
+I also redesigned the other service pages, including:
+Flights
+Cabs
+Buses
+Trains
+Hotels 
+Each page includes relevant images, icons, and visual sections related to that specific travel service to improve clarity and make the interface more engaging.
+The layouts, typography, spacing, and visual hierarchy were redesigned to maintain consistency across all pages.
+
+This redesign improves usability, reduces user confusion, and creates a smooth navigation experience throughout the website.
 
 ---
 
@@ -57,67 +68,62 @@ The final design provides users with a seamless and intuitive browsing experienc
 
 ### Technologies/Components Used
 
-### For Design
-- **Figma**
+###Design Tool
+Figma
 
-### For Software
-**Languages used:**
-- HTML
-- CSS
-- JavaScript
+### Reference Platform
+Goibibo Website – used as the base website for UI/UX redesign study
 
-**Frameworks used:**
-- Next.js / React
-
-**Libraries used:**
-- Tailwind CSS
-- shadcn/ui
-
-**Tools used:**
-- Figma
-- VS Code
-- Chrome Browser
-
----
+### Purpose
+Wireframing
+High-fidelity UI design
+Prototype creation
+UX analysis and redesign
 
 ## Implementation
-
 ### Design Process
-1. Conducted usability analysis of the existing website
-2. Identified user pain points
-3. Created low-fidelity wireframes
-4. Designed high-fidelity UI screens
-5. Built interactive prototype in Figma
-6. Improved layouts based on UX principles
+The implementation of this project was carried out completely in Figma as part of my UI/UX internship project.
+The process included:
+Research & Analysis
+Studied the existing Goibibo website to understand the current layout, booking flow, navigation structure, and user pain points.
+Problem Identification
+Identified issues such as cluttered design, complex booking flow, and poor visual hierarchy.
+Wireframing
+Created low-fidelity wireframes to plan the improved structure and user journey.
+UI Redesign
+Designed high-fidelity screens with a modern layout, improved typography, better spacing, and a clean interface.
+Prototype Creation
+Built an interactive prototype in Figma to demonstrate the user flow and redesigned booking experience.
+Final Review
+Refined the design based on UI/UX principles to ensure better usability and accessibility.
 
 ---
 
 ## Project Documentation
 
-### Screenshots
+The documentation covers the complete design process, including:
 
-#### Existing Website Analysis
-Shows the problems in the old design such as poor layout, cluttered interface, and navigation issues.
+Research and analysis of the existing Goibibo website
+Identification of UX issues and pain points
+Low-fidelity wireframes for improved layout and user flow
+High-fidelity UI screens designed in Figma
+Interactive prototype demonstrating the booking journey
+Final redesign screens with modern and user-friendly interface
 
-#### Wireframe Design
-Low-fidelity wireframes created to improve the user journey and page structure.
+The project was documented with proper design rationale, screen explanations, and before/after improvements to highlight the usability enhancements made during the redesign process.
 
-#### High-Fidelity UI Design
-Modern redesigned interface with better spacing, typography, and color hierarchy.
+### Compare Before and After
 
-#### Responsive Design
-Mobile-friendly responsive screens for better accessibility across devices.
 
-#### Interactive Prototype
-User flow and clickable prototype created in Figma.
 
 ---
 
-## Team Contributions
-- **Deepasree Kannaky K D:** Completed the entire project independently, including UX research, wireframing, UI design, prototype creation, usability analysis, and documentation.
 
----
+Live Prototype Link
 
-Made with ❤️ at TinkerHub Useless Projects
+Figma Prototype:
+[Paste your Figma share link here](https://www.figma.com/proto/kg84l0kVQv17IGVD6cpNme/Goibibo-redesign?page-id=0%3A1&node-id=10-2657&viewport=901%2C54%2C0.2&t=60fszbJFnoInRIXD-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=10%3A2657)
+
+
 
 ![Static Badge](https://img.shields.io/badge/Figma-Design-orange?logo=figma&logoColor=white)
