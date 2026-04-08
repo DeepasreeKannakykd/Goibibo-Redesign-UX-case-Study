@@ -1,3 +1,5 @@
+<img width="3188" height="1202" alt="frame (3)" src="Goibibo.png" />
+
 # Goibibo-Redesign-UX-case-Study
 
 
