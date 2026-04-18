@@ -12,7 +12,7 @@
 * **Role:** UI/UX Designer
 * **Internship Company:** Technglobal Pvt. Ltd.
 * **Design Tool:** Figma
-* **Project Category:** Internship Minor Project
+* **Project Category:** Internship Major Project
 
 ---
 
