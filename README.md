@@ -1,3 +1,5 @@
+<img width="3188" height="1202" alt="frame (3)" src="Goibibo.png" />
+
 # ✈️ Goibibo Website Redesign – UX Case Study (UI/UX Internship Major Project)
 
 ## 🎯 UI/UX Website Redesign
