@@ -5,21 +5,26 @@
 
 # UI/UX Website Redesign 🎯
 
-Basic Details
+### 📌 Basic Details
 
-Project Type: UI/UX Internship Project
-Organization: TechGlobal
+* **Project Type:** UI/UX Mobile App Design
+* **Project Name:** Feastify – Food Delivery App
+* **Role:** UI/UX Designer
+* **Internship Company:** Technglobal Pvt. Ltd.
+* **Design Tool:** Figma
+* **Project Category:** Internship Minor Project
 
 ---
 
 ## Project Description
 
-The project focuses on the redesign of the Goibibo website to improve usability, accessibility, and overall visual appeal. The aim was to enhance the user experience of the travel booking platform by creating a cleaner, more intuitive, and user-friendly interface.
+This project was completed as my major project during my UI/UX internship, focusing on the redesign of the Goibibo website to improve usability, accessibility, and overall visual appeal.
 
-The redesign process included user research, identifying usability issues, creating wireframes, designing high-fidelity UI screens, and building an interactive prototype using Figma.
+The goal was to enhance the user experience of the travel booking platform by creating a cleaner, more intuitive, and user-friendly interface.
+
+The redesign process included user research, identifying usability issues, wireframing, designing high-fidelity UI screens, and building an interactive prototype using Figma.
 
 The final design delivers a modern, visually appealing, and easy-to-navigate travel booking experience.
-
 ---
 
 ## Problem in the Original Website
