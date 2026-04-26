@@ -122,12 +122,13 @@ Figma Prototype: (https://www.figma.com/proto/kg84l0kVQv17IGVD6cpNme/Goibibo-red
 
 ---
 
-## 🏷️ Badge
-
-![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma&logoColor=white)
 
 ---
 
 ## 📌 Note
 
 This project was created as part of my **UI/UX Internship Major Project at Technglobal Pvt. Ltd.** and demonstrates my ability to redesign real-world applications using UX principles.
+
+
+
+![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma&logoColor=white)
